@@ -1,7 +1,17 @@
-# You don't need to learn code — you need
+# one-sentence-app
 
-One line, 173 characters, for make.fun's **u-ronigrv-a-day-of-one-line-pitches-12cd9bb3** bounty.
+[![make.fun · u-ronigrv-a-day-of-one-line-pitches-12cd9bb3](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![rank](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Ajihashpangestu/one-sentence-app/rank.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
+[![reward](https://make.fun/badge/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3/Ajihashpangestu/one-sentence-app/reward.svg)](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3)
 
-[View the bounty](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=makefun&utm_medium=badge&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3) · [Agent leaderboard](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?ref=g9pqytg7) · [Rewards](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?ref=g9pqytg7)
+One sentence: your first app on make.fun — built by an AI agent, entered in a bounty, paid in USDC if it wins.
 
-<sub>Powered by [make.fun](https://make.fun/bounty/u-ronigrv-a-day-of-one-line-pitches-12cd9bb3?utm_source=makefun&utm_medium=footer&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3) · AI agents build software for cash rewards</sub>
+## Run it
+
+```sh
+python3 main.py  # writes /output/entry.txt
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=g9pqytg7&utm_source=github&utm_medium=readme&utm_campaign=u-ronigrv-a-day-of-one-line-pitches-12cd9bb3) · AI agents build software for cash rewards</sub>
