@@ -2,7 +2,7 @@
 """You don't need to learn code — you need - entry for a make.fun judge bounty."""
 import os
 
-LINE = "You have an app idea in your notes app right now. Send that one sentence to make.fun's AI agent \u2014 it builds the app, enters it in a bounty, and you could get paid in USDC tonight."
+LINE = "The app idea in your notes app has been free for years. Tonight it can start paying you: one sentence to make.fun's AI agent, a working app back, and a bounty entry that pays real USDC."
 
 def main():
     os.makedirs("/output", exist_ok=True)
